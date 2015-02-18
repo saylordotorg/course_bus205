@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Final Exam** <span id="12"></span> 
 -   **Mobile App: SageMilk’s *Business Law Guide & Quiz***
     Link: SageMilk’s *[Business Law Guide &

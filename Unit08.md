@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Criminal Law and Business** <span id="8"></span> 
 *Like torts, criminal law deals with what happens when an individual or
 group of individuals commits a wrong against another individual or group

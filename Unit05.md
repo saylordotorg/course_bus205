@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Property Law** <span id="5"></span> 
 **The idea of property usually strikes people as a fairly simple
 concept. However, the law recognizes that the interests in various types

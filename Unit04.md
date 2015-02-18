@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Contracts** <span id="4"></span> 
 **Contracts come in all shapes and sizes. You enter into a contract with
 a broker and seller when you purchase a house. Businesses enter into

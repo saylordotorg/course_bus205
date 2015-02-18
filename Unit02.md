@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Litigation vs. Alternative Dispute Resolution** <span
 id="2"></span> 
 **In general, legal problems between private parties can be addressed in

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Intellectual Property** <span id="6"></span> 
 **How many people have the recipe for Coca-Cola? Probably only a few
 high-level executives within the company. The recipe gives Coca-Cola a

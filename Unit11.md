@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Business Ethics** <span id="11"></span> 
 *Running a successful business is not simply a matter of obeying the
 law. There are areas, some addressed by the law and others not, where we

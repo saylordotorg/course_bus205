@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Employment Law** <span id="7"></span> 
 *This unit will introduce you to employment law, also known as labor
 law, regulations that are typically designed to protect the employee

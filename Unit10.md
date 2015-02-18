@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Business Regulation** <span id="10"></span> 
 *Regulation is always a source of debate within the business community.
 In the wake of Enron’s massive fraud, for example, legislators passed

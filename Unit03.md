@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS205: Business Law and Ethics"
+course_description: "An introduction to the laws and ethical standards that managers must abide by while conducting business. This course explores the legal framework designed to protect both consumers and businesses, and outlines the legal and ethical environment in which businesses operate."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Torts** <span id="3"></span> 
 **Tort is a branch of law that involves the enforcement of civil wrongs
 in the absence of contracts. For example, if you are hit by another
